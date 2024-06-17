@@ -15273,15 +15273,15 @@ a {
 }
 
 .swiper-banner-two-wrapper .banner-bg-2 {
-  background-image: url(../used/slider-1.png);
+ 
   height: 920px;
 }
 .swiper-banner-two-wrapper .banner-bg-3 {
-  background-image: url(../used/slider-2.png);
+ 
   height: 920px;
 }
 .swiper-banner-two-wrapper .banner-bg-4 {
-  background-image: url(../used/slider-3.jpeg);
+  
   height: 920px;
 }
 @media only screen and (max-width: 767px) {
