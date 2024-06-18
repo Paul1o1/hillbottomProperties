@@ -19787,7 +19787,7 @@ a {
 }
 .showcase-images-area-main-wrapper .img-hover-area .rts-img-hover img {
   transition: 0.8s;
-  height: 100%;
+  
   transform: scale(0.7);
 }
 .showcase-images-area-main-wrapper .img-hover-area .rts-img-hover.active {
@@ -23651,7 +23651,7 @@ body.portfolio-boxes .swiper-product-one-box-page .thumbnail {
 }
 .after-before-main-wrapper-one .cd-image-container img {
   display: block;
-  height: 100%;
+  
 }
 .after-before-main-wrapper-one .cd-image-label {
   position: absolute;
