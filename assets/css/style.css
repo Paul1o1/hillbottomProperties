@@ -710,6 +710,8 @@ ol ul {
 
 .rts-section-gap2Bottom {
   padding-bottom: 160px;
+  background-color: black;
+  padding-top:50px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .rts-section-gap2Bottom {
@@ -18820,7 +18822,7 @@ a {
   background-image: url(../images/service/18.jpg);
 }
 .single-service-style-four.three::after {
-  background-image: url(../images/service/19.jpg);
+  background-image: url(../images/service/19-copy.avif);
 }
 .single-service-style-four:hover::after {
   width: 100%;
@@ -25225,3 +25227,6 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
   transition: all 0.3s 1s ease-out;
 }
 /*# sourceMappingURL=../maps/style.css.map */
+
+
+.showcase-images-area-main-wrapper .hover-btn-area ul {}
