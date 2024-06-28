@@ -143,7 +143,7 @@ $(function() {
 	
     // 8. countdown
     // 8.1. countdown SETUP
-    var end = new Date("07/07/2024 06:00 PM"); // FORMAT: month/day/year time
+    var end = new Date("08/01/2024 06:00 PM"); // FORMAT: month/day/year time
     // 8.2. countdown script
     var _second = 1000;
     var _minute = _second * 60;
