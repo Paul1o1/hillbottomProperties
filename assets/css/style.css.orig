@@ -10050,7 +10050,10 @@ Background Image
 }
 
 .bg_tr-image--5 {
-  background-image: url(../images/bg/bg-image-5.png);
+  background-image: url(../images/bg/bg-image- <link async="true" rel="preload" as="image" href="assets/images/before-after/10.png">
+
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.5.2/css/all.css">
+    );
   background-size: cover;
 }
 
@@ -10100,7 +10103,10 @@ Background Image
 }
 
 .bg_tr-image--15 {
-  background-image: url(../images/bg/bg-image-15.png);
+  background-image: url(../images/bg/bg-image-1 <link async="true" rel="preload" as="image" href="assets/images/before-after/10.png">
+
+    <link rel="stylesheet" href="https://site-assets.fontawesome.com/releases/v6.5.2/css/all.css">
+    );
   background-size: cover;
 }
 
