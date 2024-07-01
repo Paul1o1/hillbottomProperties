@@ -122,7 +122,7 @@ body {
   line-height: var(--line-height-b1);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "Inter", sans-serif;
+  font-family: "Montserrat", sans-serif;
   color: var(--color-body);
   font-weight: var(--p-regular);
   position: relative;
@@ -520,7 +520,7 @@ ol ul {
 }
 
 .typo-title-area .title {
-  font-family: "Cormorant Garamond", serif;
+  
   font-weight: 300;
   font-style: normal;
   margin-top: 0;
@@ -14805,13 +14805,13 @@ a {
   gap: 13px;
 }
 .title-style-left .pre-title-area span.pre-title {
-  font-family: "Cormorant Garamond", serif;
+ 
   font-weight: 300;
   font-style: normal;
   color: var(--color-primary);
 }
 .title-style-left .title {
-  font-family: "Cormorant Garamond", serif;
+  
   font-weight: 300;
   font-style: normal;
   margin-top: 20px;
@@ -16819,14 +16819,14 @@ a {
 }
 .swiper-banner-two-wrapper .swiper-button-prev::after {
   content: "\f053";
-  font-family: "Inter", sans-serif;
+  font-family: var(--font-3);
 }
 .swiper-banner-two-wrapper .swiper-button-next {
   top: 90%;
 }
 .swiper-banner-two-wrapper .swiper-button-next::after {
   content: "\f054";
-  font-family: "Inter", sans-serif;
+  font-family: var(--font-3);
 }
 
 .swiper-banner-two-wrapper .swiper-container-fade .swiper-slide {
@@ -25341,7 +25341,7 @@ header.header-three .sub-dropdown .submenu.third-lvl.base {
 }
 /*end fixed social*/
 body{
-  font-family: "Inter", sans-serif !important;
+  font-family: "Montserrat", sans-serif !important;
 }
 
 
